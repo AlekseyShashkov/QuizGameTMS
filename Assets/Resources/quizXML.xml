@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QuizList>
+    <Quiz>
+        <Question>What color is the sky on a clear day?</Question>
+        <CorrectAnswer>Blue</CorrectAnswer>
+        <WrongAnswers>
+            <WrongAnswer>Green</WrongAnswer>
+            <WrongAnswer>Red</WrongAnswer>
+            <WrongAnswer>Yellow</WrongAnswer>
+        </WrongAnswers>
+    </Quiz>
+    <Quiz>
+        <Question>How many planets are there in the Solar System?</Question>
+        <CorrectAnswer>8</CorrectAnswer>
+        <WrongAnswers>
+            <WrongAnswer>7</WrongAnswer>
+            <WrongAnswer>9</WrongAnswer>
+            <WrongAnswer>10</WrongAnswer>
+        </WrongAnswers>
+    </Quiz>
+    <Quiz>
+        <Question>Which chemical element is represented by the symbol "O"?</Question>
+        <CorrectAnswer>Oxygen</CorrectAnswer>
+        <WrongAnswers>
+            <WrongAnswer>Gold</WrongAnswer>
+            <WrongAnswer>Silver</WrongAnswer>
+            <WrongAnswer>Carbon</WrongAnswer>
+        </WrongAnswers>
+    </Quiz>
+</QuizList>
